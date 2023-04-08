@@ -1,5 +1,5 @@
 
-// List all group members' names: Vennela Chava(vc494) Sai Laxman Jagarlamudi(sj1018)
+// List all group members' names: 
 // iLab machine tested on:
 
 #include "mypthread.h"
